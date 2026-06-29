@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+npm-debug.log*
+
+# Build directories
+dist/
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# macOS
+.DS_Store
+
+# Sass cache
+.sass-cache/
+
+# Compiled maps
+*.map
+
+# Lock files (optional)
+# package-lock.json
+# yarn.lock
